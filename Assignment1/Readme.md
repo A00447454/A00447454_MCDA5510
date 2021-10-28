@@ -10,6 +10,6 @@ SimpleCSVParser: parse through each row of all csv data files
 Exceptions:  catch the exceptions.
 
 
-#Main Code: Program.cs
-#Logs: Logs folder
-#Oytput: output folder
+Main Code: Program.cs
+Logs: Logs folder
+Output: output folder
