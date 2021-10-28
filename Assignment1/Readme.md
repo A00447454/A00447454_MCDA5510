@@ -8,3 +8,8 @@ Data columns in output file: First Name, Last Name, Street Number, Street, City,
 DirWalker: to walk through the directory(SampleData) and sub directories in the given path and get all the csv files.
 SimpleCSVParser: parse through each row of all csv data files
 Exceptions:  catch the exceptions.
+
+
+#Main Code: Program.cs
+#Logs: Logs folder
+#Oytput: output folder
